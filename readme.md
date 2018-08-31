@@ -12,3 +12,4 @@ This script is to be used with the Korg NanoKontrol2 midi controller
 More info: https://madskjeldgaard.dk
 
 
+This was very much inspired by David Granström's [SuperPrism project](https://github.com/davidgranstrom/SuperPrism)
