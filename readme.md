@@ -1,4 +1,5 @@
 # DAF342wregsf live interface
+![Live at Tape, Aarhus](live_at_tape.jpg)
 
 Live interface for the acousmatic sound distribution of the piece 'DAF342wregsf'
 from 'States of Emergency' by Mads Kjeldgaard. The piece was originally released
